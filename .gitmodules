@@ -1,0 +1,3 @@
+[submodule "Scrmizu"]
+	path = Scrmizu
+	url = git@github.com:ToshikiImagawa/Scrmizu.git

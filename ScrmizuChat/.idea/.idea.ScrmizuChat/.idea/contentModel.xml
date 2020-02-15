@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_ScrmizuChat.-659931929.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$/../Scrmizu/Assets/Scrmizu/Scripts/Editor" t="Include">
+      <e p="InfiniteScrollEditor.cs" t="Include" />
+      <e p="Scrmizu-Editor.asmdef" t="Include" />
+      <e p="ScrmizuEditor.cs" t="Include" />
+      <e p="ScrmizuEditorUtil.cs" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$/../Scrmizu/Assets/Scrmizu/Scripts/Runtime" t="Include">
+      <e p="Direction.cs" t="Include" />
+      <e p="IInfiniteScrollItem.cs" t="Include" />
+      <e p="InfiniteScrollBinder.cs" t="Include" />
+      <e p="InfiniteScrollBinderBase.cs" t="Include" />
+      <e p="InfiniteScrollRect.cs" t="Include" />
+      <e p="NestedScrollRect.cs" t="Include" />
+      <e p="PagedScrollRect.cs" t="Include" />
+      <e p="Scrmizu.asmdef" t="Include" />
+    </e>
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="DI" t="Include">
+          <e p="Container.cs" t="Include" />
+          <e p="DI.asmdef" t="Include" />
+          <e p="InjectField.cs" t="Include" />
+          <e p="Lazy.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Runtime" t="Include">
+            <e p="ChatInfiniteScrollController.cs" t="Include" />
+            <e p="ChatInfiniteScrollRect.cs" t="Include" />
+            <e p="ChatItem.cs" t="Include" />
+            <e p="ChatMockContainer.cs" t="Include" />
+            <e p="ChatMockRepository.cs" t="Include" />
+            <e p="ChatMockService.cs" t="Include" />
+            <e p="IChatRepository.cs" t="Include" />
+            <e p="IChatService.cs" t="Include" />
+            <e p="ReadMeText.cs" t="Include" />
+            <e p="SortedInfiniteScrollItemRepository.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="DI.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Scrmizu-Editor.csproj" t="IncludeRecursive" />
+      <e p="Scrmizu.csproj" t="IncludeRecursive" />
+      <e p="ScrmizuChat.sln" t="IncludeFlat" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
